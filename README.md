@@ -7,3 +7,9 @@ In my following projects, I have done a simple and a multiple regression:
 - Predicting the profit of a start-up by using how much these start-ups spent on marketing, administration, and R&D
 
 I have used Python’s statsmodels library to set up the regression models.
+
+## Start-Ups
+https://www.kaggle.com/datasets/aamirsiddiqui/50startup
+
+## Height & Weight
+https://www.kaggle.com/datasets/tmcketterick/heights-and-weights
